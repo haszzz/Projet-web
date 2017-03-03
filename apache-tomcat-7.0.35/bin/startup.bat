@@ -1,5 +1,5 @@
 set JRE_HOME=C:\Program Files\Java\jre1.8.0_92
-set CATALINA_HOME=Z:\apache-tomcat-7.0.35
+set CATALINA_HOME=E:\Applis Web Java\Projet\Projet-web\apache-tomcat-7.0.35
 
 
 @echo off

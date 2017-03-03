@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+
+
+
+<web-app> 
+
+	<servlet> 
+		<servlet-name> servlet1 </servlet-name>
+		<servlet-class>TestServlet </servlet-class>       
+	</servlet>
+	
+	<servlet-mapping> 
+		<servlet-name> servlet1 </servlet-name>
+		<url-pattern> /essai </url-pattern>
+	</servlet-mapping>	
+	
+
+</web-app>

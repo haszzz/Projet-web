@@ -1,6 +1,8 @@
 # Projet-web
 TUTO GIT :
+
 !!!!!Avant de faire une modification sur le code vérifier bien que vous êtes sur votre branche !!!
+
 *git branch : affiche la branche courrante dans une autre couleur.
 *git checkout <nom branche> :vous ammene à la branche souhaiter.
 *git commit:enregistre les données modifiées de la branche actuel FAITE UN git add . (oui le point fait partit de la commande, permet d'ajouter tout nouveaux fichier, faite le a chaque fois).

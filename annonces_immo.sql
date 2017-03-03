@@ -6,7 +6,7 @@ REM *************************************************
 SET FEEDBACK OFF
 
 PROMPT
-PROMPT ************************************************************
+PROMPT ********************************
 PROMPT
 PROMPT -> CREATION DE LA BASE DE DONNEES << VENTE D APPARTEMENTS >> 
 PROMPT
